@@ -22,7 +22,7 @@ function get_data($url)
           else{
           print $buffer;
           //  return $buffer;
-           $File = "data.txt"; 
+           $File = "data.html"; 
            $Handle = fopen($File, 'w')or die("can't open file");
            $Data = $buffer; 
            fwrite($Handle, $Data); 
