@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml"> 
+<html xmlns:og="http://ogp.me/ns#"  xmlns:fb="http://www.facebook.com/2008/fbml">
+
 <head>
 
 <title>Welcome to theplanetreports.com|Home ofLatest News,worldnews,sports, and many more </title>
@@ -11,6 +12,25 @@
 <meta name="author" content="theplanetreports.com">
 
 <meta name="keywords" content="News,latest news,breaking news,today news,world news,sports news,subscription,buy,transfer"/>
+
+<link rel="canonical" href="http://www.theplanetreports.com"/>
+
+
+<meta property="og:url" content="http://www.theplanetreports.com/"/>
+<meta property="og:type" content="website"/>
+<meta property="og:site_name" content="theplanetreports"/>
+<meta property="og:title" content="Latest News,World,Opinion,Science,Technology,Sports,Cricket,Nepal, Books,Lifestyle, Entertainment,Celebrity from theplanetreports"/>
+
+
+<meta property="og:description" content="theplanetreports.com is online destination for breaking News,World,Features,Cricket,Books,Lifestyle."/>
+
+<meta property="og:image" content="http://www.theplanetreports.com/images/theplanetreports3.png"/>
+
+
+
+
+
+
 
 <link rel="stylesheet" type="text/css" href="style.css" />
 
